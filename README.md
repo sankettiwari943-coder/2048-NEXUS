@@ -230,6 +230,11 @@ If you enjoyed this project:
 
 🍴 Fork it
 
+## 📜 License
+
+This project is licensed under the MIT License.
+
+
 💡 Share your feedback
 
 🎮 2048 Nexus - Beyond the Classic Puzzle Experience
