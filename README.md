@@ -172,35 +172,8 @@ Deployment: Vercel, Render
 
 🚀 Getting Started
 1. Clone the Repository
-
-Bash
 git clone https://github.com/sankettiwari943-coder/2048-NEXUS.git
-2. Install Dependencies
 
-Bash
-npm install
-3. Start Development Server
-
-Bash
-npm run dev
-4. Backend Setup
-
-Bash
-cd server
-npm install
-npm start
-🔑 Environment Variables
-Create a .env file in the root directory:
-
-Code snippet
-VITE_FIREBASE_API_KEY=
-VITE_FIREBASE_AUTH_DOMAIN=
-VITE_FIREBASE_PROJECT_ID=
-MONGODB_URI=
-JWT_SECRET=
-RAZORPAY_KEY_ID=
-RAZORPAY_KEY_SECRET=
-PORT=5000
 🗺 Roadmap
 [x] Classic Gameplay
 
